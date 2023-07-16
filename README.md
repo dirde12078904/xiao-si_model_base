@@ -10,4 +10,5 @@ Welcome to the development and use of AI models for unlimited recall in XIAO SI 
 
 This website provides developers with a preview version of the development of XIAO SI 9 (including XIAO SI 9) or a preview version of some code for Github users (developers) to develop
 
-![画板 1_副本](https://github.com/dirde12078904/xiao-si_model_base/assets/113779902/ae777eea-9da0-4aff-af7e-2cc1c85a2d16)
+
+![XMB宣传图](https://github.com/dirde12078904/xiao-si_model_base/assets/113779902/3796abe0-97b4-4038-9516-ec115acdaf32)
